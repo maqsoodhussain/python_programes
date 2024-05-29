@@ -1,5 +1,6 @@
 def main():
     number = int(input("Enter number"))
+    print("HELLO");
     s = square(number)
     li = [1,2,3,4]
 
